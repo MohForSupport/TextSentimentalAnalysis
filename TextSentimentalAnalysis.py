@@ -19,6 +19,9 @@ from string import punctuation
 from nltk.corpus import stopwords
 
 
+print("Hello Github!")
+
+
 
 def lemmatize(inp):
     lemmatizer = WordNetLemmatizer()
